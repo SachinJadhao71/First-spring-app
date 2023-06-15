@@ -1,9 +1,11 @@
+package com.example.Studentmanagementaccio;
+
 public class Student {
 
-    int addmNo;
-    String name;
-    int age;
-    String course;
+    private int addmNo;
+    private String name;
+    private int age;
+    private String course;
 
     public Student() {
     }
